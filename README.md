@@ -52,5 +52,5 @@ This project aims to detect fake news using the LIAR dataset, comparing BiLSTM b
 
 | Model | Test Accuracy |
 |---|---|
-| BiLSTM | 23.76% |
-| BERT | 25.50% |
+| BiLSTM | 22.89% |
+| BERT | 27.84% |
